@@ -19,7 +19,7 @@ export default function Home() {
       </div>
       <div className="flex items-center">
         <Image
-          src="/bluebellbakery/cake.png"
+          src="/cake.png"
           alt="Confetti cake"
           width={500}
           height={200}
